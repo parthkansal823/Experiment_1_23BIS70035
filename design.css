@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+label {
+    font-size: 1.3em;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 6px;
+}
+input[type="text"],input[type="email"],input[type="number"] {
+    width: 300px;
+    padding: 6px;
+    font-size: 1.1em;
+    display: block;
+    box-sizing: border-box;
+}
+input[type="number"]::placeholder {
+    font-size: .97em;
+}
+button, input[type="submit"] {
+    margin-top: 20px;
+    font-size: 1.1em;
+    padding: 6px 16px;
+    cursor: pointer;
+}
