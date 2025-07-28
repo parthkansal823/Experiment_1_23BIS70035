@@ -19,3 +19,8 @@ Add appropriate HTML5 validation to ensure each field is correctly filled before
 ![Alt Text](css1.png)
 ### Result
 ![Alt Text](result.png)
+
+## 🎓 Learning Outcomes
+- Understand the basic structure of an HTML5 document.
+- Create and organize a web form using appropriate HTML elements.
+- Gain hands-on practice in designing responsive and accessible web forms.
